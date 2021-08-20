@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="CircleImageView">
+        <attr name="border_thickness" format="dimension" />
+        <attr name="border_inside_color" format="color" />
+        <attr name="border_outside_color" format="color" />
+    </declare-styleable>
+<!--    &lt;!&ndash;圆圈进度&ndash;&gt;-->
+<!--    <declare-styleable name="CircleProgressView">-->
+<!--        &lt;!&ndash;进度值&ndash;&gt;-->
+<!--        <attr name="progress" format="integer" />-->
+<!--        &lt;!&ndash;进度最大值&ndash;&gt;-->
+<!--        <attr name="max" format="integer" />-->
+<!--        &lt;!&ndash;进度颜色&ndash;&gt;-->
+<!--        <attr name="progressColor" format="color" />-->
+<!--        &lt;!&ndash;进度文字&ndash;&gt;-->
+<!--        <attr name="progressTextVisibility" format="enum">-->
+<!--            <enum name="visible" value="0"></enum>-->
+<!--            <enum name="invisible" value="4"></enum>-->
+<!--        </attr>-->
+<!--        &lt;!&ndash;进度文字&ndash;&gt;-->
+<!--        <attr name="progressTextSize" format="dimension" />-->
+<!--        &lt;!&ndash;进度文字颜色&ndash;&gt;-->
+<!--        <attr name="progressTextColor" format="color" />-->
+<!--        &lt;!&ndash;进度背景色&ndash;&gt;-->
+<!--        <attr name="progressBackgroundColor" format="color" />-->
+<!--        &lt;!&ndash;进度开始角度 0-360&ndash;&gt;-->
+<!--        <attr name="progressStartAngle" format="float" />-->
+<!--        &lt;!&ndash;圆圈线宽度&ndash;&gt;-->
+<!--        <attr name="progressStrokeWidth" format="dimension" />-->
+<!--        &lt;!&ndash;圆圈半径&ndash;&gt;-->
+<!--        <attr name="progressRadius" format="dimension" />-->
+<!--    </declare-styleable>-->
+<!--    <declare-styleable name="NumberInputView">-->
+<!--        <attr name="pre_text" format="string" />-->
+<!--        <attr name="text_color" format="color" />-->
+<!--    </declare-styleable>-->
+<!--    <declare-styleable name="PayPasswordNumInputView">-->
+<!--        <attr name="ps_text" format="string" />-->
+<!--        <attr name="ps_text_color" format="color" />-->
+<!--    </declare-styleable>-->
+</resources>
